@@ -48,11 +48,5 @@
 
 #print("პროგრამირება არის მაგარი" * 10)
 
-#hm 7
 
-name = ("კახი")
-age = int(15)
-height = float(input("1.82 ")) 
-
-print(name "არის" age "წლის და მისი სიმაღლე არის" height "მეტრი")
 
